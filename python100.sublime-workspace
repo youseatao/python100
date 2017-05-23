@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"you",
+				"youseatao"
+			],
+			[
+				"l",
+				"language"
+			],
+			[
+				"eof",
+				"EOF"
+			],
+			[
+				"int",
+				"INTEGER"
+			],
+			[
+				"re",
+				"ret"
+			],
+			[
+				"inte",
+				"INTEGER"
+			],
+			[
+				"r",
+				"rvalue"
+			],
+			[
+				"pls",
+				"PLUS"
+			],
+			[
+				"c",
+				"cur_token"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"plu",
+				"PLUS"
+			],
+			[
+				"ca",
+				"char"
+			],
+			[
+				"INT",
+				"INTEGER"
+			],
+			[
+				"si",
+				"SIGN_ADD"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"P",
+				"print"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"o",
+				"oImg"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"de",
+				"decotate"
+			],
+			[
+				"func",
+				"func"
+			],
+			[
+				"w",
+				"wrap"
+			],
+			[
+				"cla",
+				"classname"
+			],
+			[
+				"next",
+				"nextState"
+			],
+			[
+				"ed",
+				"edit_text"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"edi",
+				"edit_text"
+			],
+			[
+				"ch",
+				"chrs"
+			],
+			[
+				"e",
+				"edit"
+			],
+			[
+				"edit",
+				"edit_text"
+			],
+			[
+				"sav",
+				"saveState"
+			],
+			[
+				"sign",
+				"signal"
+			],
+			[
+				"tx",
+				"text"
+			],
+			[
+				"get",
+				"getPos"
+			],
+			[
+				"sin",
+				"signal"
+			],
+			[
+				"set",
+				"setPos"
+			],
+			[
+				"S",
+				"Sprite"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"s",
+				"screen"
+			],
+			[
+				"key",
+				"KeyUpEvent"
+			],
+			[
+				"test",
+				"testOb"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"sce",
+				"screen"
+			],
+			[
+				"tes",
+				"testOb"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"Mous",
+				"MouseUpEvent"
+			],
+			[
+				"M",
+				"MouseDownEvent"
+			],
+			[
+				"Mo",
+				"MouseUpEvent"
+			],
+			[
+				"Mos",
+				"MouseDownEvent"
+			],
+			[
+				"price",
+				"priceall"
+			],
+			[
+				"setA",
+				"setActive"
+			],
+			[
+				"V",
+				"HOLE_POS_VEC"
+			],
+			[
+				"spide",
+				"spider"
+			],
+			[
+				"lo",
+				"lObject"
+			],
+			[
+				"DO",
+				"doothers"
+			],
+			[
+				"seta",
+				"setActive"
+			],
+			[
+				"CH",
+				"CHDoothers"
+			],
+			[
+				"CS",
+				"CState"
+			],
+			[
+				"CST",
+				"CStateMachine"
+			],
+			[
+				"stat",
+				"stateMachine"
+			],
+			[
+				"drop",
+				"dropLeaves"
+			],
+			[
+				"Ra",
+				"RADIUS"
+			],
+			[
+				"HO",
+				"HOLE_POS_VEC"
+			],
+			[
+				"cs",
+				"CState"
+			],
+			[
+				"he",
+				"health"
+			],
+			[
+				"CA",
+				"CAttacking	class"
+			],
+			[
+				"state",
+				"stateMachine	statement"
+			],
+			[
+				"setac",
+				"setActiveState"
+			],
+			[
+				"pant",
+				"pant	forstmt"
+			],
+			[
+				"la",
+				"lant	statement"
+			],
+			[
+				"nex",
+				"nextState	statement"
+			],
+			[
+				"LO",
+				"location"
+			],
+			[
+				"del",
+				"delObj"
+			],
+			[
+				"sta",
+				"stateMachine	statement"
+			],
+			[
+				"run",
+				"running"
+			],
+			[
+				"sP",
+				"spider"
+			],
+			[
+				"det_",
+				"det_spider"
+			],
+			[
+				"No",
+				"None	instance"
+			],
+			[
+				"getob",
+				"getObjInRange"
+			],
+			[
+				"lea",
+				"leafimage	statement"
+			],
+			[
+				"ran",
+				"random	module"
+			],
+			[
+				"rand",
+				"random	module"
+			],
+			[
+				"b",
+				"blit"
+			],
+			[
+				"RAND",
+				"randint	statement"
+			],
+			[
+				"hO",
+				"HOLE_POS"
+			],
+			[
+				"N",
+				"None	keyword"
+			],
+			[
+				"dis",
+				"getDistance"
+			],
+			[
+				"C",
+				"CDelivering	class"
+			],
+			[
+				"d",
+				"det_leaf"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"onE",
+				"onExit"
+			],
+			[
+				"EX",
+				"exploring"
+			],
+			[
+				"On",
+				"onEnter"
+			],
+			[
+				"F",
+				"FPS	statement"
+			],
+			[
+				"scre",
+				"SCREEN_SIZE	statement"
+			],
+			[
+				"sl",
+				"self	param"
+			],
+			[
+				"Oi",
+				"OId	statement"
+			],
+			[
+				"m_",
+				"m_lobject	statement"
+			],
+			[
+				"n",
+				"nId	param"
+			],
+			[
+				"oN",
+				"onExit"
+			],
+			[
+				"lA",
+				"lAnt	statement"
+			],
+			[
+				"fil",
+				"filename	statement"
+			],
+			[
+				"on",
+				"onEnter"
+			],
+			[
+				"id",
+				"idx	forstmt"
+			],
+			[
+				"Stat",
+				"StateMachine	class"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"ob",
+				"obj	statement"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"back",
+				"background_image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/download/simplecs-master/simplecs-master/Server/lanuch/server.cpp",
+		"/D/download/simplecs-master/simplecs-master/Server/lanuch/Connection.h",
+		"/D/download/simplecs-master/simplecs-master/Server/lanuch/mLanuch.h",
+		"/D/download/simplecs-master/simplecs-master/Server/myDB/dbcpp/DBConnections.h",
+		"/D/download/simplecs-master/simplecs-master/Server/myDB/dbcpp/DBInterface.h",
+		"/D/download/simplecs-master/simplecs-master/Server/proto/Lanuch_tos.h",
+		"/D/download/simplecs-master/simplecs-master/Server/proto/Message.h",
+		"/D/download/simplecs-master/simplecs-master/Server/include/InitFirst.h",
+		"/D/download/simplecs-master/simplecs-master/Server/myDB/dbcpp/DBConstant.h",
+		"/D/download/simplecs-master/simplecs-master/Server/proto/ProtoID.h",
+		"/D/download/simplecs-master/simplecs-master/Server/lanuch/NetConstant.h",
+		"/D/download/simplecs-master/simplecs-master/Server/myDB/dbcpp/DBErr.h",
+		"/D/download/simplecs-master/simplecs-master/Server/myDB/dbcpp/DBConnections.cpp",
+		"/D/download/simplecs-master/simplecs-master/Server/include/OpenShm.h",
+		"/C/Users/lht/Desktop/blog/blog/source/CNAME",
+		"/C/Users/lht/Desktop/blog/blog/_config.yml",
+		"/C/Users/lht/Desktop/blog/blog/source/tags/index.md",
+		"/C/Users/lht/Desktop/blog/blog/source/categories/index.md",
+		"/C/Users/lht/Desktop/blog/blog/source/about/index.md",
+		"/C/Users/lht/Desktop/blog/blog/themes/next/_config.yml",
+		"/C/Users/lht/Desktop/blog/blog/source/_posts/test.md",
+		"/C/Users/lht/Desktop/blog/blog/source/_posts/django.md",
+		"/C/Users/lht/Desktop/hosts",
+		"/C/Users/lht/Desktop/pyTest/test.py",
+		"/D/OpenRA/mods/ra/chrome/map-chooser.yaml",
+		"/C/Users/lht/Desktop/python project/practice/interpreter.py",
+		"/C/Users/lht/Desktop/python project/practice/second_interpreter.py",
+		"/C/Users/lht/Desktop/python project/practice/third_interpreter.py",
+		"/D/cocos2dx-3.13/cocos2d-x-3.13.1/tests/cpp-tests/Resources/Sprite3DTest/orc.c3t",
+		"/D/OpenRA/mods/ra/mod.yaml",
+		"/D/OpenRA/mods/ra/rules/ai.yaml",
+		"/D/OpenRA/mods/ra/rules/player.yaml",
+		"/D/OpenRA/mods/ra/chrome/lobby-music.yaml",
+		"/D/cocos2dx-3.13/cocos2d-x-3.13.1/tests/cpp-tests/Resources/Shaders3D/3d_position_skin_tex.vert",
+		"/D/cocos2dx-3.13/cocos2d-x-3.13.1/tests/cpp-tests/Resources/Sprite3DTest/VertexColor.vert",
+		"/D/cocos2dx-3.13/cocos2d-x-3.13.1/tests/cpp-tests/Resources/Sprite3DTest/box_VertexCol.c3t",
+		"/D/cocos2dx-3.13/cocos2d-x-3.13.1/tests/cpp-tests/Resources/Sprite3DTest/box.c3t",
+		"/C/Users/lht/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/lht/Desktop/毕设/splitSM.py",
+		"/C/Users/lht/Desktop/毕设/Vec.py",
+		"/C/Users/lht/Desktop/毕设/mysignal.py",
+		"/C/Users/lht/Desktop/毕设/outstate.py",
+		"/C/Users/lht/Desktop/毕设/state.py",
+		"/C/Users/lht/Desktop/毕设/mainmenu.py",
+		"/C/Users/lht/Desktop/毕设/second.py",
+		"/C/Users/lht/Desktop/python project/2048.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第10章/Add2AutoRun.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第9章/threaddaemon.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第9章/event.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第7章/prime.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第7章/debug.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第2章/Chinese.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第1章/HelloPython.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第6章/MyList.py",
+		"/E/学习/python/Python学习/Python书籍/Python学习资料/源文件/第6章/UseMyList.py",
+		"/C/Users/lht/Desktop/毕设/mainmenu.pyc",
+		"/C/Users/lht/Desktop/毕设/test.py",
+		"/C/Users/lht/Desktop/test/socketsever.py",
+		"/C/Users/lht/Desktop/毕设/first.py",
+		"/C/Users/lht/Downloads/Map Editor (15.0.0)/map.py",
+		"/C/Users/lht/Desktop/test/httpserver.py",
+		"/C/Users/lht/Desktop/test/client.py",
+		"/C/Python27/Lib/site-packages/pygame/locals.py",
+		"/C/Python27/Lib/random.py",
+		"/C/Users/lht/Desktop/pyTest/cpython.c",
+		"/C/Users/lht/Desktop/test/server.py",
+		"/D/cocos2d-x-3.2/cocos2d-x-3.2/tests/cpp-tests/Resources/Sprite3DTest/orc.c3t",
+		"/D/cocos2d-x-3.2/cocos2d-x-3.2/tests/cpp-tests/Resources/Sprite3DTest/monguger.tga",
+		"/D/cocos2d-x-3.2/cocos2d-x-3.2/tests/cpp-tests/Resources/Sprite3DTest/scene.c3t",
+		"/D/cocos2d-x-3.2/cocos2d-x-3.2/tests/cpp-tests/Resources/Sprite3DTest/boss.c3b",
+		"/C/Users/lht/Desktop/test/1"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"semaphore",
+			"sem_post",
+			"SQL_NULL",
+			"lanuchUser",
+			"lanuch",
+			"ConnType",
+			"LANUCH",
+			"pLanuchID",
+			"PORT",
+			"sockaddr_in",
+			"main",
+			"avat",
+			"ava",
+			"avat",
+			"menu",
+			"langua",
+			"integer",
+			"token",
+			"delete",
+			"delete li",
+			"delete",
+			"()\n",
+			"get_next_token",
+			"INTER",
+			"Inter",
+			"INTER",
+			"CTocken",
+			"transpose",
+			"move_is_possible",
+			"curses",
+			"game_field",
+			"CHAttacking",
+			"CSExploring",
+			"class {0}(CState)",
+			"KeyUpEvent",
+			"fish",
+			"x",
+			"init()",
+			"pygame",
+			"attack",
+			"activeState",
+			"self.obj.stateMachine.activeState.onEnter()",
+			"self.obj.speed = Vec.normalizeTwoVec(self.obj.location, self.obj.world.getObj(self.obj.det_leaf).location) * 20",
+			"print",
+			"WichmannHill",
+			"_int",
+			"_random",
+			"_urandom",
+			"_random",
+			"delObj",
+			"drop",
+			"HOLE_POS_VEC",
+			"attacking",
+			"getObjInRange",
+			"print",
+			"drop",
+			"HOLE_POS",
+			"getObjInRange",
+			"getObj",
+			"OId",
+			"m_lobject",
+			"OId",
+			"m_OId",
+			"m_lobject",
+			":",
+			"if ",
+			"a",
+			"==",
+			"size",
+			"location",
+			"pygame",
+			"locals"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "python100.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
